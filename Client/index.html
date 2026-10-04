@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <title>Chord Sequence Generator</title>
+
+    
+</head>
+
+<body>
+
+    <main class="container">
+
+        <header class="header">
+
+            <div class="logo">
+                ♬
+            </div>
+
+            <h1>Chord Generator</h1>
+
+            <p class="subtitle">
+                Enter a chord progression and generate a new sequence.
+            </p>
+
+        </header>
+
+
+        <section class="card">
+
+            <div class="form-grid">
+
+                <div class="field">
+
+                    <label for="chords">
+                        Starting Chord Sequence
+                    </label>
+
+                    <input
+                        id="chords"
+                        type="text"
+                        placeholder="e.g. C:maj F:maj G:dom7 C:maj"
+                        autocomplete="off"
+                    >
+
+                    <span class="hint">
+                        Separate chords using spaces or commas.
+                    </span>
+
+                    <div class="examples">
+
+                        <button
+                            class="example"
+                            data-sequence="C:maj F:maj G:dom7 C:maj"
+                        >
+                            C → F → G → C
+                        </button>
+
+                        <button
+                            class="example"
+                            data-sequence="Am F C G"
+                        >
+                            Am → F → C → G
+                        </button>
+
+                        <button
+                            class="example"
+                            data-sequence="C:maj Am:min F:maj G:dom7"
+                        >
+                            I → vi → IV → V
+                        </button>
+
+                    </div>
+
+                </div>
+
+
+                <div class="field">
+
+                    <label for="amount">
+                        Chords to Generate
+                    </label>
+
+                    <select id="amount">
+                        <option value="4">4 chords</option>
+                        <option value="8" selected>8 chords</option>
+                        <option value="12">12 chords</option>
+                        <option value="16">16 chords</option>
+                        <option value="24">24 chords</option>
+                        <option value="32">32 chords</option>
+                    </select>
+
+                </div>
+
+            </div>
+
+
+            <button id="generateButton">
+                Generate Chord Sequence
+            </button>
+
+
+            <div id="error" class="error"></div>
+
+
+            <section
+                id="results"
+                class="results"
+            >
+
+                <div class="result-header">
+
+                    <div class="result-title">
+                        Generated Progression
+                    </div>
+
+                    <div
+                        id="count"
+                        class="count"
+                    >
+                        0 chords
+                    </div>
+
+                </div>
+
+
+                <div
+                    id="sequence"
+                    class="sequence"
+                ></div>
+
+            </section>
+
+        </section>
+
+
+        <footer class="footer">
+            Chord Sequence Generator
+        </footer>
+
+    </main>
+
+
+   
+    <script src="./main.js"></script>
+
+</body>
+</html>

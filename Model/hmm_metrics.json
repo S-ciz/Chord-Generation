@@ -1,0 +1,1288 @@
+{
+  "totalPredictions": 18594,
+  "accuracy": 0.33215015596428954,
+  "accuracyPercent": 33.215015596428955,
+  "topK": 5,
+  "topKAccuracy": 0.7884801548886737,
+  "topKAccuracyPercent": 78.84801548886738,
+  "crossEntropy": 2.1654249581778777,
+  "perplexity": 8.718306045196828,
+  "totalSequenceLogLikelihood": -40630.70510116525,
+  "averageLogLikelihood": -2.163970233338584,
+  "songResults": [
+    {
+      "songId": "728",
+      "accuracy": 0.30666666666666664,
+      "predictions": 75,
+      "correct": 23,
+      "crossEntropy": 1.9779232412249912
+    },
+    {
+      "songId": "729",
+      "accuracy": 0.5443037974683544,
+      "predictions": 79,
+      "correct": 43,
+      "crossEntropy": 1.5904083117180392
+    },
+    {
+      "songId": "730",
+      "accuracy": 0.4067796610169492,
+      "predictions": 59,
+      "correct": 24,
+      "crossEntropy": 1.749745330914192
+    },
+    {
+      "songId": "731",
+      "accuracy": 0.16964285714285715,
+      "predictions": 112,
+      "correct": 19,
+      "crossEntropy": 2.8963310373194013
+    },
+    {
+      "songId": "732",
+      "accuracy": 0.43956043956043955,
+      "predictions": 91,
+      "correct": 40,
+      "crossEntropy": 2.3140952148205294
+    },
+    {
+      "songId": "733",
+      "accuracy": 0.5504587155963303,
+      "predictions": 109,
+      "correct": 60,
+      "crossEntropy": 1.500998499500014
+    },
+    {
+      "songId": "734",
+      "accuracy": 0.49514563106796117,
+      "predictions": 103,
+      "correct": 51,
+      "crossEntropy": 1.5486909621826428
+    },
+    {
+      "songId": "735",
+      "accuracy": 0.425414364640884,
+      "predictions": 181,
+      "correct": 77,
+      "crossEntropy": 1.8597519582726252
+    },
+    {
+      "songId": "736",
+      "accuracy": 0.43333333333333335,
+      "predictions": 90,
+      "correct": 39,
+      "crossEntropy": 1.5980603074502755
+    },
+    {
+      "songId": "737",
+      "accuracy": 0.36551724137931035,
+      "predictions": 145,
+      "correct": 53,
+      "crossEntropy": 2.154576759414942
+    },
+    {
+      "songId": "738",
+      "accuracy": 0.15894039735099338,
+      "predictions": 151,
+      "correct": 24,
+      "crossEntropy": 3.1014234118487156
+    },
+    {
+      "songId": "739",
+      "accuracy": 0.34782608695652173,
+      "predictions": 115,
+      "correct": 40,
+      "crossEntropy": 2.0187129680116214
+    },
+    {
+      "songId": "740",
+      "accuracy": 0.13013698630136986,
+      "predictions": 146,
+      "correct": 19,
+      "crossEntropy": 2.9389362771771275
+    },
+    {
+      "songId": "741",
+      "accuracy": 0.5210084033613446,
+      "predictions": 119,
+      "correct": 62,
+      "crossEntropy": 1.5937877150069755
+    },
+    {
+      "songId": "742",
+      "accuracy": 0.3108108108108108,
+      "predictions": 74,
+      "correct": 23,
+      "crossEntropy": 2.2299621967769796
+    },
+    {
+      "songId": "743",
+      "accuracy": 0.41818181818181815,
+      "predictions": 110,
+      "correct": 46,
+      "crossEntropy": 2.058628513836643
+    },
+    {
+      "songId": "744",
+      "accuracy": 0.19767441860465115,
+      "predictions": 86,
+      "correct": 17,
+      "crossEntropy": 2.6438291406175143
+    },
+    {
+      "songId": "745",
+      "accuracy": 0.6176470588235294,
+      "predictions": 68,
+      "correct": 42,
+      "crossEntropy": 1.5898022670002365
+    },
+    {
+      "songId": "746",
+      "accuracy": 0.3717948717948718,
+      "predictions": 78,
+      "correct": 29,
+      "crossEntropy": 2.4330382737783074
+    },
+    {
+      "songId": "747",
+      "accuracy": 0.453781512605042,
+      "predictions": 119,
+      "correct": 54,
+      "crossEntropy": 2.849546619393327
+    },
+    {
+      "songId": "748",
+      "accuracy": 0.504950495049505,
+      "predictions": 101,
+      "correct": 51,
+      "crossEntropy": 1.8069099677639764
+    },
+    {
+      "songId": "749",
+      "accuracy": 0.2897196261682243,
+      "predictions": 107,
+      "correct": 31,
+      "crossEntropy": 2.238466979560904
+    },
+    {
+      "songId": "750",
+      "accuracy": 0.33766233766233766,
+      "predictions": 77,
+      "correct": 26,
+      "crossEntropy": 2.243910708344094
+    },
+    {
+      "songId": "751",
+      "accuracy": 0.38016528925619836,
+      "predictions": 121,
+      "correct": 46,
+      "crossEntropy": 2.307124699409071
+    },
+    {
+      "songId": "752",
+      "accuracy": 0.3333333333333333,
+      "predictions": 120,
+      "correct": 40,
+      "crossEntropy": 1.8725635623676538
+    },
+    {
+      "songId": "753",
+      "accuracy": 0.26126126126126126,
+      "predictions": 111,
+      "correct": 29,
+      "crossEntropy": 2.1746685238953263
+    },
+    {
+      "songId": "754",
+      "accuracy": 0.4645669291338583,
+      "predictions": 127,
+      "correct": 59,
+      "crossEntropy": 1.6420394761882184
+    },
+    {
+      "songId": "755",
+      "accuracy": 0.39655172413793105,
+      "predictions": 58,
+      "correct": 23,
+      "crossEntropy": 1.551698794862764
+    },
+    {
+      "songId": "756",
+      "accuracy": 0.2535211267605634,
+      "predictions": 71,
+      "correct": 18,
+      "crossEntropy": 2.0491757368093646
+    },
+    {
+      "songId": "757",
+      "accuracy": 0.23943661971830985,
+      "predictions": 142,
+      "correct": 34,
+      "crossEntropy": 2.8039261897047507
+    },
+    {
+      "songId": "758",
+      "accuracy": 0.19083969465648856,
+      "predictions": 131,
+      "correct": 25,
+      "crossEntropy": 3.080489531459146
+    },
+    {
+      "songId": "759",
+      "accuracy": 0.47435897435897434,
+      "predictions": 78,
+      "correct": 37,
+      "crossEntropy": 2.614812261371292
+    },
+    {
+      "songId": "760",
+      "accuracy": 0.3111111111111111,
+      "predictions": 45,
+      "correct": 14,
+      "crossEntropy": 1.8761753092358435
+    },
+    {
+      "songId": "761",
+      "accuracy": 0.3813559322033898,
+      "predictions": 118,
+      "correct": 45,
+      "crossEntropy": 2.171777089630709
+    },
+    {
+      "songId": "762",
+      "accuracy": 0.2692307692307692,
+      "predictions": 78,
+      "correct": 21,
+      "crossEntropy": 1.9612601638384837
+    },
+    {
+      "songId": "763",
+      "accuracy": 0.3591549295774648,
+      "predictions": 142,
+      "correct": 51,
+      "crossEntropy": 1.6896886750163775
+    },
+    {
+      "songId": "764",
+      "accuracy": 0.4186046511627907,
+      "predictions": 43,
+      "correct": 18,
+      "crossEntropy": 1.7789945980582222
+    },
+    {
+      "songId": "765",
+      "accuracy": 0.297029702970297,
+      "predictions": 101,
+      "correct": 30,
+      "crossEntropy": 2.0540613159913033
+    },
+    {
+      "songId": "766",
+      "accuracy": 0.17777777777777778,
+      "predictions": 90,
+      "correct": 16,
+      "crossEntropy": 3.206356813376199
+    },
+    {
+      "songId": "767",
+      "accuracy": 0.3402777777777778,
+      "predictions": 144,
+      "correct": 49,
+      "crossEntropy": 1.9349876763666503
+    },
+    {
+      "songId": "768",
+      "accuracy": 0.16666666666666666,
+      "predictions": 78,
+      "correct": 13,
+      "crossEntropy": 1.9739584905690417
+    },
+    {
+      "songId": "769",
+      "accuracy": 0.375,
+      "predictions": 120,
+      "correct": 45,
+      "crossEntropy": 1.9802465695327678
+    },
+    {
+      "songId": "770",
+      "accuracy": 0.1875,
+      "predictions": 80,
+      "correct": 15,
+      "crossEntropy": 3.0279232964821525
+    },
+    {
+      "songId": "771",
+      "accuracy": 0.25925925925925924,
+      "predictions": 81,
+      "correct": 21,
+      "crossEntropy": 3.066419633305089
+    },
+    {
+      "songId": "772",
+      "accuracy": 0.4875,
+      "predictions": 80,
+      "correct": 39,
+      "crossEntropy": 1.6445190909833727
+    },
+    {
+      "songId": "773",
+      "accuracy": 0.27564102564102566,
+      "predictions": 156,
+      "correct": 43,
+      "crossEntropy": 2.0708110794414742
+    },
+    {
+      "songId": "774",
+      "accuracy": 0.42574257425742573,
+      "predictions": 101,
+      "correct": 43,
+      "crossEntropy": 1.5850541141653245
+    },
+    {
+      "songId": "775",
+      "accuracy": 0.20202020202020202,
+      "predictions": 99,
+      "correct": 20,
+      "crossEntropy": 2.8225682267407923
+    },
+    {
+      "songId": "776",
+      "accuracy": 0.2109375,
+      "predictions": 128,
+      "correct": 27,
+      "crossEntropy": 2.918366265713105
+    },
+    {
+      "songId": "777",
+      "accuracy": 0.2976190476190476,
+      "predictions": 84,
+      "correct": 25,
+      "crossEntropy": 1.7869860093234418
+    },
+    {
+      "songId": "778",
+      "accuracy": 0.8220338983050848,
+      "predictions": 118,
+      "correct": 97,
+      "crossEntropy": 1.2151164187439274
+    },
+    {
+      "songId": "779",
+      "accuracy": 0.13709677419354838,
+      "predictions": 124,
+      "correct": 17,
+      "crossEntropy": 3.608289107627161
+    },
+    {
+      "songId": "780",
+      "accuracy": 0.26595744680851063,
+      "predictions": 94,
+      "correct": 25,
+      "crossEntropy": 2.798516042218108
+    },
+    {
+      "songId": "781",
+      "accuracy": 0.1651376146788991,
+      "predictions": 109,
+      "correct": 18,
+      "crossEntropy": 2.2130449873998392
+    },
+    {
+      "songId": "782",
+      "accuracy": 0.38686131386861317,
+      "predictions": 137,
+      "correct": 53,
+      "crossEntropy": 2.2400799904395985
+    },
+    {
+      "songId": "783",
+      "accuracy": 0.2,
+      "predictions": 130,
+      "correct": 26,
+      "crossEntropy": 2.5840221689817646
+    },
+    {
+      "songId": "784",
+      "accuracy": 0.2222222222222222,
+      "predictions": 90,
+      "correct": 20,
+      "crossEntropy": 1.9610903376871092
+    },
+    {
+      "songId": "785",
+      "accuracy": 0.5411764705882353,
+      "predictions": 170,
+      "correct": 92,
+      "crossEntropy": 1.664202581881919
+    },
+    {
+      "songId": "786",
+      "accuracy": 0.3,
+      "predictions": 70,
+      "correct": 21,
+      "crossEntropy": 1.768680643238697
+    },
+    {
+      "songId": "787",
+      "accuracy": 0.39316239316239315,
+      "predictions": 117,
+      "correct": 46,
+      "crossEntropy": 1.9131778737505813
+    },
+    {
+      "songId": "788",
+      "accuracy": 0.375,
+      "predictions": 112,
+      "correct": 42,
+      "crossEntropy": 2.0122635875157604
+    },
+    {
+      "songId": "789",
+      "accuracy": 0.1797752808988764,
+      "predictions": 89,
+      "correct": 16,
+      "crossEntropy": 2.2651696604942675
+    },
+    {
+      "songId": "790",
+      "accuracy": 0.3564356435643564,
+      "predictions": 101,
+      "correct": 36,
+      "crossEntropy": 1.9114514592090763
+    },
+    {
+      "songId": "791",
+      "accuracy": 0.14615384615384616,
+      "predictions": 130,
+      "correct": 19,
+      "crossEntropy": 2.806364478481576
+    },
+    {
+      "songId": "792",
+      "accuracy": 0.3157894736842105,
+      "predictions": 76,
+      "correct": 24,
+      "crossEntropy": 2.1259983717872912
+    },
+    {
+      "songId": "793",
+      "accuracy": 0.44285714285714284,
+      "predictions": 70,
+      "correct": 31,
+      "crossEntropy": 1.7547353130335401
+    },
+    {
+      "songId": "794",
+      "accuracy": 0.2897196261682243,
+      "predictions": 107,
+      "correct": 31,
+      "crossEntropy": 2.630100060549188
+    },
+    {
+      "songId": "795",
+      "accuracy": 0.3614457831325301,
+      "predictions": 83,
+      "correct": 30,
+      "crossEntropy": 2.075753700687546
+    },
+    {
+      "songId": "796",
+      "accuracy": 0.2441860465116279,
+      "predictions": 86,
+      "correct": 21,
+      "crossEntropy": 2.76343221589285
+    },
+    {
+      "songId": "797",
+      "accuracy": 0.42857142857142855,
+      "predictions": 63,
+      "correct": 27,
+      "crossEntropy": 1.7274366492017086
+    },
+    {
+      "songId": "798",
+      "accuracy": 0.3763440860215054,
+      "predictions": 93,
+      "correct": 35,
+      "crossEntropy": 2.2181112614925906
+    },
+    {
+      "songId": "799",
+      "accuracy": 0.26373626373626374,
+      "predictions": 91,
+      "correct": 24,
+      "crossEntropy": 2.0226663805305716
+    },
+    {
+      "songId": "800",
+      "accuracy": 0.4496124031007752,
+      "predictions": 129,
+      "correct": 58,
+      "crossEntropy": 1.7273027795721567
+    },
+    {
+      "songId": "801",
+      "accuracy": 0.4830508474576271,
+      "predictions": 118,
+      "correct": 57,
+      "crossEntropy": 1.4038549788773769
+    },
+    {
+      "songId": "802",
+      "accuracy": 0.2761904761904762,
+      "predictions": 105,
+      "correct": 29,
+      "crossEntropy": 2.369947300189819
+    },
+    {
+      "songId": "803",
+      "accuracy": 0.3949579831932773,
+      "predictions": 119,
+      "correct": 47,
+      "crossEntropy": 1.867739202866924
+    },
+    {
+      "songId": "804",
+      "accuracy": 0.656,
+      "predictions": 125,
+      "correct": 82,
+      "crossEntropy": 1.4565480472764674
+    },
+    {
+      "songId": "805",
+      "accuracy": 0.19047619047619047,
+      "predictions": 105,
+      "correct": 20,
+      "crossEntropy": 2.072410628086211
+    },
+    {
+      "songId": "806",
+      "accuracy": 0.16666666666666666,
+      "predictions": 78,
+      "correct": 13,
+      "crossEntropy": 2.2073171713899056
+    },
+    {
+      "songId": "807",
+      "accuracy": 0.22388059701492538,
+      "predictions": 67,
+      "correct": 15,
+      "crossEntropy": 2.116481003650226
+    },
+    {
+      "songId": "808",
+      "accuracy": 0.38,
+      "predictions": 100,
+      "correct": 38,
+      "crossEntropy": 1.7712560668587596
+    },
+    {
+      "songId": "809",
+      "accuracy": 0.39285714285714285,
+      "predictions": 112,
+      "correct": 44,
+      "crossEntropy": 1.943526460668856
+    },
+    {
+      "songId": "810",
+      "accuracy": 0.3063063063063063,
+      "predictions": 111,
+      "correct": 34,
+      "crossEntropy": 2.391981745309334
+    },
+    {
+      "songId": "811",
+      "accuracy": 0.1511627906976744,
+      "predictions": 86,
+      "correct": 13,
+      "crossEntropy": 2.128538545086905
+    },
+    {
+      "songId": "812",
+      "accuracy": 0.2987012987012987,
+      "predictions": 77,
+      "correct": 23,
+      "crossEntropy": 2.0068866776691094
+    },
+    {
+      "songId": "813",
+      "accuracy": 0.5463917525773195,
+      "predictions": 97,
+      "correct": 53,
+      "crossEntropy": 1.549891922129692
+    },
+    {
+      "songId": "814",
+      "accuracy": 0.2545454545454545,
+      "predictions": 110,
+      "correct": 28,
+      "crossEntropy": 1.6017226972395868
+    },
+    {
+      "songId": "815",
+      "accuracy": 0.3732394366197183,
+      "predictions": 142,
+      "correct": 53,
+      "crossEntropy": 2.3326816804775947
+    },
+    {
+      "songId": "816",
+      "accuracy": 0.1527777777777778,
+      "predictions": 72,
+      "correct": 11,
+      "crossEntropy": 3.027474306837009
+    },
+    {
+      "songId": "817",
+      "accuracy": 0.28346456692913385,
+      "predictions": 127,
+      "correct": 36,
+      "crossEntropy": 2.648190431286087
+    },
+    {
+      "songId": "818",
+      "accuracy": 0.36585365853658536,
+      "predictions": 82,
+      "correct": 30,
+      "crossEntropy": 2.0386762342626685
+    },
+    {
+      "songId": "819",
+      "accuracy": 0.27522935779816515,
+      "predictions": 109,
+      "correct": 30,
+      "crossEntropy": 1.9677198873624944
+    },
+    {
+      "songId": "820",
+      "accuracy": 0.6351351351351351,
+      "predictions": 74,
+      "correct": 47,
+      "crossEntropy": 1.2234523035851506
+    },
+    {
+      "songId": "821",
+      "accuracy": 0.31958762886597936,
+      "predictions": 97,
+      "correct": 31,
+      "crossEntropy": 1.959392827259669
+    },
+    {
+      "songId": "822",
+      "accuracy": 0.225,
+      "predictions": 120,
+      "correct": 27,
+      "crossEntropy": 2.4054139549580382
+    },
+    {
+      "songId": "823",
+      "accuracy": 0.265625,
+      "predictions": 192,
+      "correct": 51,
+      "crossEntropy": 2.5676781609731862
+    },
+    {
+      "songId": "824",
+      "accuracy": 0.22962962962962963,
+      "predictions": 135,
+      "correct": 31,
+      "crossEntropy": 2.7496788979806652
+    },
+    {
+      "songId": "825",
+      "accuracy": 0.3944954128440367,
+      "predictions": 109,
+      "correct": 43,
+      "crossEntropy": 2.265930886564108
+    },
+    {
+      "songId": "826",
+      "accuracy": 0.06140350877192982,
+      "predictions": 114,
+      "correct": 7,
+      "crossEntropy": 2.4365291726130476
+    },
+    {
+      "songId": "827",
+      "accuracy": 0.4230769230769231,
+      "predictions": 104,
+      "correct": 44,
+      "crossEntropy": 1.887636917037974
+    },
+    {
+      "songId": "828",
+      "accuracy": 0.3076923076923077,
+      "predictions": 78,
+      "correct": 24,
+      "crossEntropy": 1.6618293811233666
+    },
+    {
+      "songId": "829",
+      "accuracy": 0.2631578947368421,
+      "predictions": 95,
+      "correct": 25,
+      "crossEntropy": 2.0846547051327624
+    },
+    {
+      "songId": "830",
+      "accuracy": 0.4700854700854701,
+      "predictions": 117,
+      "correct": 55,
+      "crossEntropy": 2.1665239614538447
+    },
+    {
+      "songId": "831",
+      "accuracy": 0.2336448598130841,
+      "predictions": 107,
+      "correct": 25,
+      "crossEntropy": 2.7102219415065196
+    },
+    {
+      "songId": "832",
+      "accuracy": 0.23376623376623376,
+      "predictions": 77,
+      "correct": 18,
+      "crossEntropy": 2.3906237650900546
+    },
+    {
+      "songId": "833",
+      "accuracy": 0.35714285714285715,
+      "predictions": 56,
+      "correct": 20,
+      "crossEntropy": 1.9235973877237171
+    },
+    {
+      "songId": "834",
+      "accuracy": 0.12389380530973451,
+      "predictions": 113,
+      "correct": 14,
+      "crossEntropy": 2.098199877897671
+    },
+    {
+      "songId": "835",
+      "accuracy": 0.2875,
+      "predictions": 80,
+      "correct": 23,
+      "crossEntropy": 3.288996109101364
+    },
+    {
+      "songId": "836",
+      "accuracy": 0.3090909090909091,
+      "predictions": 110,
+      "correct": 34,
+      "crossEntropy": 2.262752581111863
+    },
+    {
+      "songId": "837",
+      "accuracy": 0.37142857142857144,
+      "predictions": 140,
+      "correct": 52,
+      "crossEntropy": 2.6825699586215186
+    },
+    {
+      "songId": "838",
+      "accuracy": 0.3877551020408163,
+      "predictions": 98,
+      "correct": 38,
+      "crossEntropy": 1.8099868016142597
+    },
+    {
+      "songId": "839",
+      "accuracy": 0.48360655737704916,
+      "predictions": 122,
+      "correct": 59,
+      "crossEntropy": 1.6808806648446535
+    },
+    {
+      "songId": "840",
+      "accuracy": 0.19117647058823528,
+      "predictions": 68,
+      "correct": 13,
+      "crossEntropy": 2.6123127224377645
+    },
+    {
+      "songId": "841",
+      "accuracy": 0.4117647058823529,
+      "predictions": 119,
+      "correct": 49,
+      "crossEntropy": 1.6400807631028955
+    },
+    {
+      "songId": "842",
+      "accuracy": 0.4864864864864865,
+      "predictions": 74,
+      "correct": 36,
+      "crossEntropy": 1.979286154883591
+    },
+    {
+      "songId": "843",
+      "accuracy": 0.23076923076923078,
+      "predictions": 91,
+      "correct": 21,
+      "crossEntropy": 2.4551773769674328
+    },
+    {
+      "songId": "844",
+      "accuracy": 0.4,
+      "predictions": 120,
+      "correct": 48,
+      "crossEntropy": 2.0353011827346017
+    },
+    {
+      "songId": "845",
+      "accuracy": 0.2765957446808511,
+      "predictions": 94,
+      "correct": 26,
+      "crossEntropy": 2.1003858501137165
+    },
+    {
+      "songId": "846",
+      "accuracy": 0.2564102564102564,
+      "predictions": 78,
+      "correct": 20,
+      "crossEntropy": 1.7731654481688544
+    },
+    {
+      "songId": "847",
+      "accuracy": 0.22033898305084745,
+      "predictions": 118,
+      "correct": 26,
+      "crossEntropy": 2.0650163196126137
+    },
+    {
+      "songId": "848",
+      "accuracy": 0.39805825242718446,
+      "predictions": 103,
+      "correct": 41,
+      "crossEntropy": 1.8123093696189572
+    },
+    {
+      "songId": "849",
+      "accuracy": 0.35365853658536583,
+      "predictions": 82,
+      "correct": 29,
+      "crossEntropy": 1.7971346363287481
+    },
+    {
+      "songId": "850",
+      "accuracy": 0.2214765100671141,
+      "predictions": 149,
+      "correct": 33,
+      "crossEntropy": 2.171930233825269
+    },
+    {
+      "songId": "851",
+      "accuracy": 0.20689655172413793,
+      "predictions": 87,
+      "correct": 18,
+      "crossEntropy": 1.9907886660499128
+    },
+    {
+      "songId": "852",
+      "accuracy": 0.26119402985074625,
+      "predictions": 134,
+      "correct": 35,
+      "crossEntropy": 1.9661007128090358
+    },
+    {
+      "songId": "853",
+      "accuracy": 0.5094339622641509,
+      "predictions": 53,
+      "correct": 27,
+      "crossEntropy": 1.67343752551244
+    },
+    {
+      "songId": "854",
+      "accuracy": 0.21621621621621623,
+      "predictions": 111,
+      "correct": 24,
+      "crossEntropy": 2.3846698777867967
+    },
+    {
+      "songId": "855",
+      "accuracy": 0.3269230769230769,
+      "predictions": 104,
+      "correct": 34,
+      "crossEntropy": 1.8237019514062214
+    },
+    {
+      "songId": "856",
+      "accuracy": 0.15384615384615385,
+      "predictions": 91,
+      "correct": 14,
+      "crossEntropy": 2.1547741560091143
+    },
+    {
+      "songId": "857",
+      "accuracy": 0.25274725274725274,
+      "predictions": 91,
+      "correct": 23,
+      "crossEntropy": 2.4324358397539694
+    },
+    {
+      "songId": "858",
+      "accuracy": 0.45454545454545453,
+      "predictions": 99,
+      "correct": 45,
+      "crossEntropy": 1.8228339252581198
+    },
+    {
+      "songId": "859",
+      "accuracy": 0.5185185185185185,
+      "predictions": 135,
+      "correct": 70,
+      "crossEntropy": 1.7507845173182541
+    },
+    {
+      "songId": "860",
+      "accuracy": 0.48333333333333334,
+      "predictions": 60,
+      "correct": 29,
+      "crossEntropy": 1.4961177144131292
+    },
+    {
+      "songId": "861",
+      "accuracy": 0.5125,
+      "predictions": 160,
+      "correct": 82,
+      "crossEntropy": 1.5816224037439217
+    },
+    {
+      "songId": "862",
+      "accuracy": 0.3333333333333333,
+      "predictions": 150,
+      "correct": 50,
+      "crossEntropy": 1.7820868331520978
+    },
+    {
+      "songId": "863",
+      "accuracy": 0.18181818181818182,
+      "predictions": 55,
+      "correct": 10,
+      "crossEntropy": 2.0259672138469673
+    },
+    {
+      "songId": "864",
+      "accuracy": 0.1484375,
+      "predictions": 128,
+      "correct": 19,
+      "crossEntropy": 2.7148151875557662
+    },
+    {
+      "songId": "865",
+      "accuracy": 0.29357798165137616,
+      "predictions": 109,
+      "correct": 32,
+      "crossEntropy": 1.9815163462032694
+    },
+    {
+      "songId": "866",
+      "accuracy": 0.3684210526315789,
+      "predictions": 114,
+      "correct": 42,
+      "crossEntropy": 1.823231515753444
+    },
+    {
+      "songId": "867",
+      "accuracy": 0.64,
+      "predictions": 75,
+      "correct": 48,
+      "crossEntropy": 1.2902892802081574
+    },
+    {
+      "songId": "868",
+      "accuracy": 0.375,
+      "predictions": 104,
+      "correct": 39,
+      "crossEntropy": 2.166034058108104
+    },
+    {
+      "songId": "869",
+      "accuracy": 0.13740458015267176,
+      "predictions": 131,
+      "correct": 18,
+      "crossEntropy": 4.49571212430589
+    },
+    {
+      "songId": "870",
+      "accuracy": 0.42748091603053434,
+      "predictions": 131,
+      "correct": 56,
+      "crossEntropy": 1.6616037112702116
+    },
+    {
+      "songId": "871",
+      "accuracy": 0.13829787234042554,
+      "predictions": 94,
+      "correct": 13,
+      "crossEntropy": 2.5964919692454616
+    },
+    {
+      "songId": "872",
+      "accuracy": 0.24468085106382978,
+      "predictions": 94,
+      "correct": 23,
+      "crossEntropy": 2.1404903487813853
+    },
+    {
+      "songId": "873",
+      "accuracy": 0.27522935779816515,
+      "predictions": 109,
+      "correct": 30,
+      "crossEntropy": 1.8224883205821425
+    },
+    {
+      "songId": "874",
+      "accuracy": 0.515625,
+      "predictions": 128,
+      "correct": 66,
+      "crossEntropy": 1.7271081538218822
+    },
+    {
+      "songId": "875",
+      "accuracy": 0.4230769230769231,
+      "predictions": 104,
+      "correct": 44,
+      "crossEntropy": 2.079922394007041
+    },
+    {
+      "songId": "876",
+      "accuracy": 0.42857142857142855,
+      "predictions": 126,
+      "correct": 54,
+      "crossEntropy": 1.77896605110267
+    },
+    {
+      "songId": "877",
+      "accuracy": 0.297029702970297,
+      "predictions": 101,
+      "correct": 30,
+      "crossEntropy": 2.242689294423396
+    },
+    {
+      "songId": "878",
+      "accuracy": 0.35,
+      "predictions": 100,
+      "correct": 35,
+      "crossEntropy": 2.1800683867612505
+    },
+    {
+      "songId": "879",
+      "accuracy": 0.625,
+      "predictions": 64,
+      "correct": 40,
+      "crossEntropy": 1.5039051599990632
+    },
+    {
+      "songId": "880",
+      "accuracy": 0.20833333333333334,
+      "predictions": 96,
+      "correct": 20,
+      "crossEntropy": 2.8700063156457816
+    },
+    {
+      "songId": "881",
+      "accuracy": 0.38235294117647056,
+      "predictions": 102,
+      "correct": 39,
+      "crossEntropy": 1.9593726473705932
+    },
+    {
+      "songId": "882",
+      "accuracy": 0.09523809523809523,
+      "predictions": 105,
+      "correct": 10,
+      "crossEntropy": 4.497472712159802
+    },
+    {
+      "songId": "883",
+      "accuracy": 0.33653846153846156,
+      "predictions": 104,
+      "correct": 35,
+      "crossEntropy": 1.854694805284917
+    },
+    {
+      "songId": "884",
+      "accuracy": 0.28688524590163933,
+      "predictions": 122,
+      "correct": 35,
+      "crossEntropy": 2.4427657949557955
+    },
+    {
+      "songId": "885",
+      "accuracy": 0.1951219512195122,
+      "predictions": 82,
+      "correct": 16,
+      "crossEntropy": 3.056306269694075
+    },
+    {
+      "songId": "886",
+      "accuracy": 0.3870967741935484,
+      "predictions": 93,
+      "correct": 36,
+      "crossEntropy": 1.7183275172445553
+    },
+    {
+      "songId": "887",
+      "accuracy": 0.5054945054945055,
+      "predictions": 91,
+      "correct": 46,
+      "crossEntropy": 1.676987051786776
+    },
+    {
+      "songId": "888",
+      "accuracy": 0.5333333333333333,
+      "predictions": 75,
+      "correct": 40,
+      "crossEntropy": 1.8336553018706752
+    },
+    {
+      "songId": "889",
+      "accuracy": 0.2,
+      "predictions": 100,
+      "correct": 20,
+      "crossEntropy": 2.8030982165655707
+    },
+    {
+      "songId": "890",
+      "accuracy": 0.6049382716049383,
+      "predictions": 81,
+      "correct": 49,
+      "crossEntropy": 1.5409879228454049
+    },
+    {
+      "songId": "891",
+      "accuracy": 0.569620253164557,
+      "predictions": 79,
+      "correct": 45,
+      "crossEntropy": 1.8749179350536886
+    },
+    {
+      "songId": "892",
+      "accuracy": 0.46017699115044247,
+      "predictions": 113,
+      "correct": 52,
+      "crossEntropy": 1.554210992613173
+    },
+    {
+      "songId": "893",
+      "accuracy": 0.31683168316831684,
+      "predictions": 101,
+      "correct": 32,
+      "crossEntropy": 2.0304719011180263
+    },
+    {
+      "songId": "894",
+      "accuracy": 0.19753086419753085,
+      "predictions": 81,
+      "correct": 16,
+      "crossEntropy": 3.0425076621624147
+    },
+    {
+      "songId": "895",
+      "accuracy": 0.26548672566371684,
+      "predictions": 113,
+      "correct": 30,
+      "crossEntropy": 2.1423417279327532
+    },
+    {
+      "songId": "896",
+      "accuracy": 0.3898305084745763,
+      "predictions": 118,
+      "correct": 46,
+      "crossEntropy": 2.0532539140196295
+    },
+    {
+      "songId": "897",
+      "accuracy": 0.39215686274509803,
+      "predictions": 153,
+      "correct": 60,
+      "crossEntropy": 1.9477453838798744
+    },
+    {
+      "songId": "898",
+      "accuracy": 0.14772727272727273,
+      "predictions": 88,
+      "correct": 13,
+      "crossEntropy": 2.3670335220398835
+    },
+    {
+      "songId": "899",
+      "accuracy": 0.18571428571428572,
+      "predictions": 70,
+      "correct": 13,
+      "crossEntropy": 2.1205558759698433
+    },
+    {
+      "songId": "900",
+      "accuracy": 0.42028985507246375,
+      "predictions": 69,
+      "correct": 29,
+      "crossEntropy": 2.137173267927309
+    },
+    {
+      "songId": "901",
+      "accuracy": 0.26785714285714285,
+      "predictions": 112,
+      "correct": 30,
+      "crossEntropy": 2.2298104771738787
+    },
+    {
+      "songId": "902",
+      "accuracy": 0.25,
+      "predictions": 116,
+      "correct": 29,
+      "crossEntropy": 2.887276854266104
+    },
+    {
+      "songId": "903",
+      "accuracy": 0.3816793893129771,
+      "predictions": 131,
+      "correct": 50,
+      "crossEntropy": 1.9482719123318901
+    },
+    {
+      "songId": "904",
+      "accuracy": 0.2867647058823529,
+      "predictions": 136,
+      "correct": 39,
+      "crossEntropy": 2.2177071380255007
+    },
+    {
+      "songId": "905",
+      "accuracy": 0.18,
+      "predictions": 50,
+      "correct": 9,
+      "crossEntropy": 1.777790977317885
+    },
+    {
+      "songId": "906",
+      "accuracy": 0.10975609756097561,
+      "predictions": 82,
+      "correct": 9,
+      "crossEntropy": 2.5301824896980643
+    },
+    {
+      "songId": "907",
+      "accuracy": 0.4444444444444444,
+      "predictions": 54,
+      "correct": 24,
+      "crossEntropy": 1.8785464225535893
+    },
+    {
+      "songId": "908",
+      "accuracy": 0.2786885245901639,
+      "predictions": 122,
+      "correct": 34,
+      "crossEntropy": 2.412028755613484
+    },
+    {
+      "songId": "909",
+      "accuracy": 0.23076923076923078,
+      "predictions": 26,
+      "correct": 6,
+      "crossEntropy": 1.7943223632731709
+    }
+  ]
+}
